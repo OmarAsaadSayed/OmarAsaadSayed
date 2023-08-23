@@ -1,13 +1,14 @@
 # Omar Asaad
 I'm Omar from Egypt, and I do content on social media. I enjoy learning new stuff in either tech or languages like Python, C++, C#, HTML, CSS, and PHP. I also do some WordPress, and I have pretty good knowledge of website SEO. I also enjoy doing physical stuff like making LANs and connecting devices.
 
+![Design and Development](https://github.com/OmarAsaadSayed/OmarAsaadSayed/blob/51b35a55b5b8bc79f48d616cc8ff34c8d8d9754f/banner.jpg)
+
 ## Skills and Experience
 * 🐍 Python
 * 💾 SQL
 * 💻 C++, C#
 * 🖥️ HTML, CSS, PHP
   
-![Design and Development](https://github.com/OmarAsaadSayed/OmarAsaadSayed/blob/51b35a55b5b8bc79f48d616cc8ff34c8d8d9754f/banner.jpg)
 
 - 🔭 I’m currently working on E-commerce Website 
 - 🌱 I’m currently learning PHP / Laravel 
