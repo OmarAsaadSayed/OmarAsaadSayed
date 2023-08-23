@@ -8,7 +8,9 @@ I'm Omar from Egypt, and I do content on social media. I enjoy learning new stuf
 * 💾 SQL
 * 💻 C++, C#
 * 🖥️ HTML, CSS, PHP
-  
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarAsaadSayed)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on E-commerce Website 
 - 🌱 I’m currently learning PHP / Laravel 
