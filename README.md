@@ -1,11 +1,12 @@
-### Hi there 👋, my name is Omar Asaad
-#### Content Creator, and Web Developer
-https://twitter.com/OmarAsaadRashe1/header_photo
+![Design and Development](https://github.com/OmarAsaadSayed/OmarAsaadSayed/blob/51b35a55b5b8bc79f48d616cc8ff34c8d8d9754f/banner.jpg)
+# Omar Asaad
 I'm Omar from Egypt, and I do content on social media. I enjoy learning new stuff in either tech or languages like Python, C++, C#, HTML, CSS, and PHP. I also do some WordPress, and I have pretty good knowledge of website SEO. I also enjoy doing physical stuff like making LANs and connecting devices.
-U+1F40D
 
-
-Skills: Python / C++ / C# / HTML / CSS / PHP / SQL
+## Skills and Experience
+* 🐍 Python
+* 💾 SQL
+* 💻 C++, C#
+* 🖥️ HTML, CSS, PHP
 
 - 🔭 I’m currently working on E-commerce Website 
 - 🌱 I’m currently learning PHP / Laravel 
